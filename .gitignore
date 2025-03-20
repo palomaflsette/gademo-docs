@@ -1,0 +1,30 @@
+# Diretórios de build do Sphinx (não precisam ser versionados)
+_build/
+build/
+doctrees/
+
+# Arquivos gerados automaticamente pelo Sphinx (não precisam ser versionados)
+*.log
+*.pot  # Arquivos de tradução gerados automaticamente
+*.mo   # Arquivos de tradução compilados
+
+# Cache e arquivos temporários do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de sistema que podem poluir o repositório
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Arquivos temporários de edição
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Arquivos da interface do PyData Theme
+_static/switcher.json
+_static/versions.json
