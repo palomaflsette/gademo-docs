@@ -17,7 +17,22 @@ release = '1.0.0'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ["myst_parser"]
+extensions = ["myst_parser",
+              "sphinx_design"]
+
+myst_enable_extensions = [
+    "colon_fence",  # Habilita ::: para grids e cards
+    "html_admonition",
+    "html_image",
+    "dollarmath",
+    "amsmath",
+    "deflist",
+    "fieldlist",
+    "attrs_inline",
+    "attrs_block",
+]
+
+
 source_suffix = {
     '.rst': 'restructuredtext',
     '.md': 'markdown',
@@ -51,8 +66,8 @@ html_theme_options = {
 }
 
 html_context = {
-    "github_user": "palomaflsette",        # Substitua pelo seu usuário do GitHub
-    "github_repo": "gademo-docs",        # Substitua pelo nome do seu repositório
-    "github_version": "main",            # Nome da branch onde a documentação está
-    "doc_path": "source",                # Caminho para a pasta da documentação
+    "github_user": "palomaflsette",        
+    "github_repo": "gademo-docs",     
+    "github_version": "main",    
+    "doc_path": "source",      
 }
