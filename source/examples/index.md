@@ -4,5 +4,5 @@
 ```{toctree}
 :caption: Usage Examples
 
-examples
+using_gademo_for_optimization
 ```

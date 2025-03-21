@@ -1,5 +1,5 @@
 ************
-Installation
+Navbar
 ************
 
 .. note::

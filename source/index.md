@@ -47,8 +47,23 @@ Learn more {fas}`arrow-right`
 If you are looking for a Sphinx theme that puts all of its sub-pages in the sidebar, the [Sphinx Book Theme](https://sphinx-book-theme.readthedocs.io/) has a similar look and feel, and [Furo](https://pradyunsg.me/furo/quickstart/) is another excellent choice. You can also see the [Sphinx Themes Gallery](https://sphinx-themes.org) for more ideas.
 ```
 
+## About GAdemo
 
-# User Guide
+```{toctree}
+:maxdepth: 2
+
+about/index
+```
+
+## Fundamentals
+
+```{toctree}
+:maxdepth: 2
+
+fundamentals/index
+```
+
+## User Guide
 
 ```{toctree}
 :maxdepth: 2
@@ -56,18 +71,26 @@ If you are looking for a Sphinx theme that puts all of its sub-pages in the side
 user_guide/index
 ```
 
-# Contributor Guide
-
-```{toctree}
-:maxdepth: 2
-
-contributor_guide/index
-```
-
-# Examples
+## Examples
 
 ```{toctree}
 :maxdepth: 2
 
 examples/index
+```
+
+## API
+
+```{toctree}
+:maxdepth: 2
+
+api/index
+```
+
+## Community and Contribution Guide
+
+```{toctree}
+:maxdepth: 2
+
+contributor_guide/index
 ```
