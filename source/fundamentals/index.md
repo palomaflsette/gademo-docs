@@ -1,7 +1,7 @@
 # Fundamentals
 
 ```{toctree}
-:caption:  GAdemo Fundamentals
+:caption:  GADemo Fundamentals
 
 what_are_genetic_algorithms
 main_components_used

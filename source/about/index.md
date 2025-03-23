@@ -1,8 +1,8 @@
+# About GADemo
 
-# About GAdemo
 
 ```{toctree}
-:caption: About GAdemo
+:caption: About GADemo
 
 gademo_overview
 who_is_gademo_for

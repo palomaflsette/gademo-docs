@@ -1,3 +1,3 @@
 ******************************************
-How GAdemo Implements Genetic Algorithms?
+How GADemo Implements Genetic Algorithms?
 ******************************************

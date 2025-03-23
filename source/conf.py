@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'GAdemo Documentation'
-html_title = "GAdemo Documentation"
-html_short_title = "GAdemo Documentation"
+project = 'GADemo Documentation'
+html_title = "GADemo Documentation"
+html_short_title = "GADemo Documentation"
 
 copyright = '2025, Paloma L Sett'
 author = 'Paloma L Sett'
@@ -41,6 +41,9 @@ source_suffix = {
 templates_path = ['_templates']
 exclude_patterns = []
 
+html_logo = "_static/icon.png"
+html_favicon = "_static/favicon.ico"
+
 
 
 # -- Options for HTML output -------------------------------------------------
@@ -49,11 +52,19 @@ exclude_patterns = []
 html_theme = "pydata_sphinx_theme"
 
 html_static_path = ['_static']
+html_css_files = ['style.css']
+
 
 locale_dirs = ['locale/']
 gettext_compact = False
 
 html_theme_options = {
+    "logo": {
+        "text": "GADemo Documentation",
+        "image_light": "icon.png",
+        "image_dark": "icon.png",
+    },
+    "navbar_start": ["navbar-logo"],  # Garante que o logo apareça
     "use_edit_page_button": True,
     "navigation_depth": 3,  # Define a profundidade da navegação lateral
     "show_prev_next": True,  # Adiciona botões "Próximo" e "Anterior"
