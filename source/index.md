@@ -30,8 +30,8 @@ Discover the core concepts behind Genetic Algorithms, including genetic operator
 Learn more {fas}`arrow-right`
 :::
 
-:::{grid-item-card} {fas}`graduation-cap;sd-text-danger` Support Binder
-:link: about/support_and_acknowledgments
+:::{grid-item-card} {fas}`graduation-cap;sd-text-danger` GADemo Support
+:link: acknowledgments_and_support/index
 :link-type: doc
 
 This project was envisioned and built by members of the academic community at PUC-Rio.
@@ -57,7 +57,9 @@ Learn more {fas}`arrow-right`
 ::::
 
 ```{seealso}
-If you are looking for a Sphinx theme that puts all of its sub-pages in the sidebar, the [Sphinx Book Theme](https://sphinx-book-theme.readthedocs.io/) has a similar look and feel, and [Furo](https://pradyunsg.me/furo/quickstart/) is another excellent choice. You can also see the [Sphinx Themes Gallery](https://sphinx-themes.org) for more ideas.
+If you wish to explore further, check out selected references on Genetic Algorithms, Data Science, and Artificial Intelligence. You can also access a published monograph that inspired parts of this project, along with other recommended readings and resources.
+
+You can also access the [Final Paper](https://doi.org/10.17771/PUCRio.acad.68870) developed as the Undergraduate Thesis that gave rise to GADemo, offering an in-depth discussion of its theoretical foundation and implementation process.
 ```
 
 ## About GADemo
@@ -98,6 +100,22 @@ examples/index
 :maxdepth: 2
 
 api/index
+```
+
+## References
+
+```{toctree}
+:maxdepth: 2
+
+references/index
+```
+
+## Acknowledgments and Support
+
+```{toctree}
+:maxdepth: 2
+
+acknowledgments_and_support/index
 ```
 
 ## Community and Contribution Guide

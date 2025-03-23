@@ -3,3 +3,4 @@ myst-parser
 sphinx-rtd-theme
 sphinx-design
 pydata-sphinx-theme
+sphinxcontrib-bibtex

@@ -18,7 +18,10 @@ release = '1.0.0'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = ["myst_parser",
-              "sphinx_design"]
+              "sphinx_design", 
+              "sphinxcontrib.bibtex"]
+
+bibtex_bibfiles = ['references/references.bib']
 
 myst_enable_extensions = [
     "colon_fence",  # Habilita ::: para grids e cards
