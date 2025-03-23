@@ -1,5 +1,5 @@
 
-```{image} _static/gademo-logo.png
+```{image} _static/gademo-logo.PNG
 :alt: GADEMO logo
 :width: 500px
 :align: center
