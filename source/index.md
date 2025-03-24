@@ -13,7 +13,7 @@ An interactive educational platform to explore Genetic Algorithms in a visual, i
 :gutter: 3
 
 :::{grid-item-card} {fas}`bolt;sd-text-warning` Get started
-:link: https://gademo-zxig.onrender.com
+:link: https://www.maxwell.vrac.puc-rio.br/projetosEspeciais/GADEMO/index.html
 :link-type: url
 
 Visualize, understand, and experiment with Genetic Algorithms through interactive graphs and detailed data — no coding required.
