@@ -62,7 +62,7 @@ You can explore the codebase, submit issues, or open pull requests directly at:
  - `<https://github.com/palomaflsette/GAdemo-api>`_ 
  - `<https://github.com/palomaflsette/gademo-front>`_
 
-Feel free to star 🌟 the repository, fork it, or reach out through the contact options listed in the :doc:`Support & Acknowledgments <../support/support>` section.
+Feel free to star 🌟 the repository, fork it, or reach out through the contact options listed in the :doc:`Support & Acknowledgments <../acknowledgments_and_support/index>` section.
 
 
 License & Community

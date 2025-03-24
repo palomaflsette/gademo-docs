@@ -67,17 +67,31 @@ html_theme_options = {
         "image_light": "icon.png",
         "image_dark": "icon.png",
     },
-    "navbar_start": ["navbar-logo"],  # Garante que o logo apareça
+    "navbar_start": ["navbar-logo"],
     "use_edit_page_button": True,
-    "navigation_depth": 3,  # Define a profundidade da navegação lateral
-    "show_prev_next": True,  # Adiciona botões "Próximo" e "Anterior"
-    # Permite troca de temas e versões
-    "navbar_end": ["theme-switcher", "version-switcher"],
+    "navigation_depth": 3,
+    "show_prev_next": True,
+    "navbar_end": ["icon-links", "theme-switcher", "version-switcher"],
     "switcher": {
-        "json_url": "_static/switcher.json",  # Caminho para o arquivo de idiomas
+        "json_url": "_static/switcher.json",
         "version_match": "1.0.0"
     },
+    "icon_links": [
+        {
+            "name": "Backend Repository",
+            "url": "https://github.com/palomaflsette/GAdemo-api",
+            "icon": "fab fa-github",
+            "type": "fontawesome"
+        },
+        {
+            "name": "Frontend Repository",
+            "url": "https://github.com/palomaflsette/gademo-front",
+            "icon": "fab fa-github",
+            "type": "fontawesome"
+        }
+    ]
 }
+
 
 html_context = {
     "github_user": "palomaflsette",        
