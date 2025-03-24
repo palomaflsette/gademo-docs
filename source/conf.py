@@ -12,7 +12,7 @@ html_short_title = "GADemo Documentation"
 
 copyright = '2025, Paloma L Sett'
 author = 'Paloma L Sett'
-release = '1.0.0'
+release = '0.11.1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -74,7 +74,7 @@ html_theme_options = {
     "navbar_end": ["icon-links", "theme-switcher", "version-switcher"],
     "switcher": {
         "json_url": "_static/switcher.json",
-        "version_match": "1.0.0"
+        "version_match": "0.11.1"
     },
     "icon_links": [
         {
