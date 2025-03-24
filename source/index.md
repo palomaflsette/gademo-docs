@@ -42,7 +42,7 @@ Learn more {fas}`arrow-right`
 
 :::{grid-item-card}
 :columns: 12
-:link: contributor_guide/contributor_guide
+:link: contributor_guide/index
 :link-type: doc
 :text-align: center
 
@@ -125,3 +125,25 @@ acknowledgments_and_support/index
 
 contributor_guide/index
 ```
+
+```{image} _static/pucrio-logo.png
+:alt: PUC logo
+:width: 250px
+:align: center
+:target: https://www.puc-rio.br/english/
+```
+
+```{image} _static/dee-logo.png
+:alt: DEE logo
+:width: 150px
+:align: center
+:target: http://www.ele.puc-rio.br/en/
+```
+
+```{image} _static/lira-logo2.PNG
+:alt: LIRA logo
+:width: 200px
+:align: center
+:target: http://www.lira.ele.puc-rio.br/home.html
+```
+
