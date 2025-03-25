@@ -14,7 +14,7 @@ GADemo was envisioned by **Prof. Karla Figueiredo, Ph.D.**. The system was devel
 Acknowledgments
 ----------------
 
-The development of the GADemo platform was made possible through the guidance, support, and intellectual generosity of outstanding individuals.
+GADemo's development was made possible through the guidance, support, and intellectual generosity of outstanding individuals.
 
 Special gratitude is extended to **Prof. Karla Figueiredo, Ph.D.**, for her unwavering mentorship, visio, dedication throughout the project and whose academic vision and unwavering dedication were the driving forces behind the creation of the platform. Her insightful guidance and encouragement were instrumental at every stage of this work, and her impact on the author's academic journey is both profound and deeply appreciated.
 
