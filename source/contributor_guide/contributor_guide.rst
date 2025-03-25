@@ -11,10 +11,10 @@ GADemo is an open web platform for demonstrating **Genetic Algorithms**, with bo
 🧠 Backend (Python - DEAP based)
 ---------------------------------
 
-- New mutation, crossover, or selection operators
-- New benchmark functions and fitness evaluation modes
-- Performance optimization and parallelism
-- API refactoring, testing, or validation improvements
+- New selection methods and fitness evaluation modes;
+- Performance optimization and parallelism;
+- API refactoring, testing, or validation improvements;
+- etc.
 
 🎨 Frontend (HTML/CSS/JavaScript)
 ---------------------------------
@@ -24,6 +24,7 @@ GADemo is an open web platform for demonstrating **Genetic Algorithms**, with bo
 - Adding interactivity or tooltips in charts
 - Refining **responsiveness** and accessibility (mobile, keyboard nav, etc.)
 - Suggesting or implementing **new UI components**
+- etc.
 
 Don't worry if you're not a "full-stack" person — **every small contribution helps**.
 
@@ -55,7 +56,7 @@ Not ready to contribute code? You can still help by:
 Stay Connected
 ==============
 
-The GADEMO repository is **publicly available** and open for contributions!
+The GAdemo's repository is **publicly available** and open for contributions!
 
 You can explore the codebase, submit issues, or open pull requests directly at:
 
