@@ -62,7 +62,7 @@ If you wish to explore further, check out selected references on Genetic Algorit
 You can also access the [Final Paper](https://doi.org/10.17771/PUCRio.acad.68870) developed as the Undergraduate Thesis that gave rise to GADemo, offering an in-depth discussion of its theoretical foundation and implementation process.
 ```
 
-## About GADemo
+#### About GADemo
 
 ```{toctree}
 :maxdepth: 2
@@ -70,7 +70,7 @@ You can also access the [Final Paper](https://doi.org/10.17771/PUCRio.acad.68870
 about/index
 ```
 
-## Fundamentals
+#### Fundamentals
 
 ```{toctree}
 :maxdepth: 2
@@ -78,7 +78,7 @@ about/index
 fundamentals/index
 ```
 
-## User Guide
+#### User Guide
 
 ```{toctree}
 :maxdepth: 2
@@ -86,7 +86,7 @@ fundamentals/index
 user_guide/index
 ```
 
-## Examples
+#### Examples
 
 ```{toctree}
 :maxdepth: 2
@@ -94,7 +94,7 @@ user_guide/index
 examples/index
 ```
 
-## API
+#### API
 
 ```{toctree}
 :maxdepth: 2
@@ -102,7 +102,7 @@ examples/index
 api/index
 ```
 
-## References
+#### References
 
 ```{toctree}
 :maxdepth: 2
@@ -110,7 +110,7 @@ api/index
 references/index
 ```
 
-## Acknowledgments and Support
+#### Acknowledgments and Support
 
 ```{toctree}
 :maxdepth: 2
@@ -118,7 +118,7 @@ references/index
 acknowledgments_and_support/index
 ```
 
-## Community and Contribution Guide
+### Community and Contribution Guide
 
 ```{toctree}
 :maxdepth: 2
@@ -133,12 +133,21 @@ contributor_guide/index
 :target: https://www.puc-rio.br/english/
 ```
 
-```{image} _static/dee-logo.png
+<!-- ```{image} _static/dee-logo.png
 :alt: DEE logo
 :width: 150px
 :align: center
 :target: http://www.ele.puc-rio.br/en/
-```
+``` -->
+
+
+<div style="text-align: center;">
+    <a href="http://www.ele.puc-rio.br/en/" target="_blank">
+        <img src="_static/dee-dark.png" class="only-dark" style="width: 150px;">
+        <img src="_static/dee-light.png" class="only-light" style="width: 150px;">
+    </a>
+</div>
+
 
 ```{image} _static/lira-logo2.PNG
 :alt: LIRA logo
