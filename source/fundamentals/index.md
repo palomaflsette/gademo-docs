@@ -12,7 +12,10 @@ Whether you are a newcomer to evolutionary computation or seeking to reinforce y
 
 what_are_evolutionary_algorithms
 what_are_genetic_algorithms
+bio_genetical
 main_components_used
 how_gademo_implements_genetic_algorithms
 rounds_experiments_generations
+stopping_criteria
+flow_GA
 ```
